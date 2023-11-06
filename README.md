@@ -10,7 +10,7 @@
 
 - GOOGLE DOCS LINK ( ANALYSIS ) // https://docs.google.com/document/d/1PAPKPrLJzaTfSEVAEMMwOd8pJ46ipkXD2aLnLkIQ1kU/edit?usp=sharing
 
-- FILES contained:
+- FILES contained herein:
 
 - (1) Northwind_Group_Project_starter_v05.dbc = DataBricks Notebook
 
