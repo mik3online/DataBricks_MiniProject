@@ -15,3 +15,7 @@
 - (1) Northwind_Group_Project_starter_v05.dbc = DataBricks Notebook
 
 - (2) Northwind_Group_Project_starter_v05.html = HTML export of DataBricks Notebook
+------------------------------------------------------------------------------------
+INSTRUCTIONS to view:
+(a) Download DataBricks Notebook (Northwind_Group_Project_starter_v05.dbc) and load file into DataBricks to view
+(b) Download DataBricks Notebook HTML Export (Northwind_Group_Project_starter_v05.html) and view simply as an HTML file with no dependencies
